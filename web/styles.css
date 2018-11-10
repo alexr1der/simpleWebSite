@@ -1,0 +1,47 @@
+body
+{
+    background-color: #197d8e;
+    background-repeat: no-repeat;
+}
+p
+ {
+    border-style: solid;
+    border-left-color: #ff0000;
+ border-right-color: #ff0000;
+    font-style: italic;
+    text-decoration: underline;
+}
+.intro
+{
+text-align: center; 
+
+background-color: red;
+text-transform: capitalize;
+
+}
+.ipic
+{
+	border:6px solid black;
+	width:900px;
+    height:600px;
+    background-color: brown;
+    background-image: url(forest.jpg);
+   text-underline-position: bottom;
+}
+.form
+{
+	padding-right: 600px;
+}
+
+.ipic2
+{
+	border:2px solid black;
+	width:600px;
+    height:400px;
+    background-color: brown;
+  
+
+}
+
+
+
